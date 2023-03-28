@@ -34,7 +34,7 @@ The script is very much currently a proof of concept and gets you about 90% of t
 
 ### Using the Multi-Reflector-Installer script:
 ```sh
-git clone https://github.com/n5amd/Multi-Reflector-Installer.git
+git clone https://github.com/snailwalk11/Multi-Reflector-Installer.git
 cd Multi-Reflector-Installer
 ./Multi-Reflector-Installer.sh
 ```
